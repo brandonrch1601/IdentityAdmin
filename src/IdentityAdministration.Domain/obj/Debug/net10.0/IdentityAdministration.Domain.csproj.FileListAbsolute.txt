@@ -1,0 +1,12 @@
+C:\Development\Git\IdentityAdmin\IdentityAdmin\src\IdentityAdministration.Domain\bin\Debug\net10.0\IdentityAdministration.Domain.deps.json
+C:\Development\Git\IdentityAdmin\IdentityAdmin\src\IdentityAdministration.Domain\bin\Debug\net10.0\IdentityAdministration.Domain.dll
+C:\Development\Git\IdentityAdmin\IdentityAdmin\src\IdentityAdministration.Domain\bin\Debug\net10.0\IdentityAdministration.Domain.pdb
+C:\Development\Git\IdentityAdmin\IdentityAdmin\src\IdentityAdministration.Domain\obj\Debug\net10.0\IdentityAdministration.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Git\IdentityAdmin\IdentityAdmin\src\IdentityAdministration.Domain\obj\Debug\net10.0\IdentityAdministration.Domain.AssemblyInfoInputs.cache
+C:\Development\Git\IdentityAdmin\IdentityAdmin\src\IdentityAdministration.Domain\obj\Debug\net10.0\IdentityAdministration.Domain.AssemblyInfo.cs
+C:\Development\Git\IdentityAdmin\IdentityAdmin\src\IdentityAdministration.Domain\obj\Debug\net10.0\IdentityAdministration.Domain.csproj.CoreCompileInputs.cache
+C:\Development\Git\IdentityAdmin\IdentityAdmin\src\IdentityAdministration.Domain\obj\Debug\net10.0\IdentityAdministration.Domain.sourcelink.json
+C:\Development\Git\IdentityAdmin\IdentityAdmin\src\IdentityAdministration.Domain\obj\Debug\net10.0\IdentityAdministration.Domain.dll
+C:\Development\Git\IdentityAdmin\IdentityAdmin\src\IdentityAdministration.Domain\obj\Debug\net10.0\refint\IdentityAdministration.Domain.dll
+C:\Development\Git\IdentityAdmin\IdentityAdmin\src\IdentityAdministration.Domain\obj\Debug\net10.0\IdentityAdministration.Domain.pdb
+C:\Development\Git\IdentityAdmin\IdentityAdmin\src\IdentityAdministration.Domain\obj\Debug\net10.0\ref\IdentityAdministration.Domain.dll

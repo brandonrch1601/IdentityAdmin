@@ -1,0 +1,16 @@
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Application\bin\Debug\net10.0\SGED.IdentityAdministration.Application.deps.json
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Application\bin\Debug\net10.0\SGED.IdentityAdministration.Application.dll
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Application\bin\Debug\net10.0\SGED.IdentityAdministration.Application.pdb
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Application\bin\Debug\net10.0\SGED.IdentityAdministration.Domain.dll
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Application\bin\Debug\net10.0\SGED.IdentityAdministration.Domain.pdb
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Application\obj\Debug\net10.0\SGED.IdentityAdministration.Application.csproj.AssemblyReference.cache
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Application\obj\Debug\net10.0\SGED.IdentityAdministration.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Application\obj\Debug\net10.0\SGED.IdentityAdministration.Application.AssemblyInfoInputs.cache
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Application\obj\Debug\net10.0\SGED.IdentityAdministration.Application.AssemblyInfo.cs
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Application\obj\Debug\net10.0\SGED.IdentityAdministration.Application.csproj.CoreCompileInputs.cache
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Application\obj\Debug\net10.0\SGED.IdentityAdministration.Application.sourcelink.json
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Application\obj\Debug\net10.0\SGED.Ide.B8DB22AE.Up2Date
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Application\obj\Debug\net10.0\SGED.IdentityAdministration.Application.dll
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Application\obj\Debug\net10.0\refint\SGED.IdentityAdministration.Application.dll
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Application\obj\Debug\net10.0\SGED.IdentityAdministration.Application.pdb
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Application\obj\Debug\net10.0\ref\SGED.IdentityAdministration.Application.dll

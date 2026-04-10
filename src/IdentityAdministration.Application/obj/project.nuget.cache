@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4fOnLkLcdGw=",
+  "success": true,
+  "projectFilePath": "C:\\Development\\Git\\IdentityAdmin\\IdentityAdmin\\src\\IdentityAdministration.Application\\IdentityAdministration.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brand\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

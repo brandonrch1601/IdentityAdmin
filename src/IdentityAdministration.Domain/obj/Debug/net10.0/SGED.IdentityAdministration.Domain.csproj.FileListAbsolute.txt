@@ -1,0 +1,12 @@
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Domain\bin\Debug\net10.0\SGED.IdentityAdministration.Domain.deps.json
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Domain\bin\Debug\net10.0\SGED.IdentityAdministration.Domain.dll
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Domain\bin\Debug\net10.0\SGED.IdentityAdministration.Domain.pdb
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Domain\obj\Debug\net10.0\SGED.IdentityAdministration.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Domain\obj\Debug\net10.0\SGED.IdentityAdministration.Domain.AssemblyInfoInputs.cache
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Domain\obj\Debug\net10.0\SGED.IdentityAdministration.Domain.AssemblyInfo.cs
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Domain\obj\Debug\net10.0\SGED.IdentityAdministration.Domain.csproj.CoreCompileInputs.cache
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Domain\obj\Debug\net10.0\SGED.IdentityAdministration.Domain.sourcelink.json
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Domain\obj\Debug\net10.0\SGED.IdentityAdministration.Domain.dll
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Domain\obj\Debug\net10.0\refint\SGED.IdentityAdministration.Domain.dll
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Domain\obj\Debug\net10.0\SGED.IdentityAdministration.Domain.pdb
+C:\Development\Tecasoft\SGED\services\SGED.IdentityAdministration\src\SGED.IdentityAdministration.Domain\obj\Debug\net10.0\ref\SGED.IdentityAdministration.Domain.dll
