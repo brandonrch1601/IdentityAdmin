@@ -62,15 +62,15 @@ Toda la configuración sensible debe sobrescribirse en `appsettings.Development.
 // appsettings.json — valores de producción de referencia
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Host=<host>;Port=5432;Database=sged;Username=<user>;Password=<password>"
+    "DefaultConnection": "Host=<host>;Port=5432;Database=<db>;Username=<user>;Password=<password>"
   },
   "AzureKeyVault": {
     "VaultUri": "https://<vault-name>.vault.azure.net/",
-    "TokenSigningKeyName": "sged-token-signing"   // Nombre de la clave RSA en AKV
+    "TokenSigningKeyName": "token-signing"   // Nombre de la clave RSA en AKV
   },
   "Jwt": {
     "Issuer": "https://identity.tecasoft.cr", // URL pública del servicio
-    "Audience": "sged-services",                   // Debe coincidir en todos los consumers
+    "Audience": "services",                   // Debe coincidir en todos los consumers
     "ExpirationMinutes": 60
   }
 }
